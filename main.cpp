@@ -6,7 +6,9 @@ int main()
 {
 	std::cout << "Hello World!" << std::endl;
 
-	cout << "Helloworld!" << std::endl;
+	cout << "¾È³çÇÏ¼¼¿ä!" << std::endl;
+
+	cout << "Come On!" << std::endl;
 
 	return 0;
 }
