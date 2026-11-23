@@ -10,5 +10,7 @@ int main()
 
 	cout << "Come On!" << std::endl;
 
+	cout << " 알겠습니다." << std::endl;
+
 	return 0;
 }
